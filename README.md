@@ -6,7 +6,7 @@
    + [Упражнение 2](https://github.com/Nailya-1005/Na/blob/main/folder%201/ex.2)
    + [Упражнение 3 и 4](https://github.com/Nailya-1005/Na/blob/main/folder%201/ex.3%20and%20ex.4)
    
-**2. [Арифметические операции](https://github.com/Nailya-1005/Na/tree/main/folder%202) **
+**2. [Арифметические операции](https://github.com/Nailya-1005/Na/tree/main/folder%202)**
    + [Упражнение 1](https://github.com/Nailya-1005/Na/blob/main/folder%202/ex.1)
    + [Упражнение 2 и 3](https://github.com/Nailya-1005/Na/blob/main/folder%202/ex.2%20and%20ex.3)
    + [Упражнение 4](https://github.com/Nailya-1005/Na/blob/main/folder%202/ex.4)
@@ -36,7 +36,7 @@
    + [Упражнение 3](https://github.com/Nailya-1005/Na/blob/main/folder%206/ex.3)
    + [Упражнение 4](https://github.com/Nailya-1005/Na/blob/main/folder%206/ex.4)
 
-**7. [Массивы](https://github.com/Nailya-1005/Na/tree/main/folder%207) **
+**7. [Массивы](https://github.com/Nailya-1005/Na/tree/main/folder%207)**
    + [Упражнение 1](https://github.com/Nailya-1005/Na/blob/main/folder%207/ex.1)
    + [Упражнение 2](https://github.com/Nailya-1005/Na/blob/main/folder%207/ex.2)
    + [Упражнение 3](https://github.com/Nailya-1005/Na/blob/main/folder%207/ex.3)
